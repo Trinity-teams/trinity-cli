@@ -1,11 +1,11 @@
 {
-  "name": "trinity-cli",
+  "name": "trinity-ui-cli",
   "version": "1.0.0",
   "description": "cli for trinity library",
   "main": "./bin/index.js",
   "type": "module",
   "bin": {
-    "trinity-cli": "./bin/index.js"
+    "trinity-ui-cli": "./bin/index.js"
   },
   "scripts": {
     "test": "npm run test"
@@ -15,8 +15,7 @@
     "url": "git+https://github.com/DevTeams-Inc/trinity-cli.git"
   },
   "keywords": [
-    "trinity",
-    "trinity-cli",
+    "trinity-ui-cli",
     "backend",
     "trinity-client"
   ],
