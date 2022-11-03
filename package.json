@@ -1,5 +1,5 @@
 {
-  "name": "trinity-ui-cli",
+  "name": "@trinity-packages/trinity-ui-cli",
   "version": "1.0.0",
   "description": "cli for trinity library",
   "main": "./bin/index.js",
