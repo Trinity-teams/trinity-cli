@@ -1,6 +1,6 @@
 {
   "name": "trinity-ui-cli",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "cli for trinity library",
   "main": "./bin/index.js",
   "type": "module",
@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/DevTeams-Inc/trinity-cli#readme",
   "dependencies": {
-    "commander": "^9.4.1",
-    "shelljs": "^0.8.5"
+    "commander": "^9.4.1"
   }
 }
