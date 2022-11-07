@@ -2,6 +2,12 @@
 
 Trinity-ui-cli is a command line interface for Trinity-ui. It is a tool for developers to create and manage their own Trinity-ui projects.
 
+## How do work Trinity-ui-cli?
+
+![photo_2022-11-07_18-56-11](https://user-images.githubusercontent.com/38229144/200433023-49f47fa3-c240-4925-97f7-0543bc37195a.jpg)
+
+
+
 ## Installation
 
 ```bash

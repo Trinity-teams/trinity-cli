@@ -1,6 +1,6 @@
 {
   "name": "trinity-ui-cli",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "description": "cli for trinity library",
   "main": "./bin/index.js",
   "type": "module",

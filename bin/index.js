@@ -9,7 +9,7 @@ import { generateTemplate } from "./functions/generate-project.js";
  * * Prepare the commander instance.
  */
 const program = commander.program
-  .version("1.1.2")
+  .version("1.2.2")
   .description("CLI for trinity project")
   .option("-g, --generate", "Generate a new trinity project")
   .parse(process.argv);
